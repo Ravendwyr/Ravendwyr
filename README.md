@@ -1,43 +1,51 @@
-### Hi there! I'm Kerrinen Hope, aka [Ravendwyr](https://ravendwyr.github.io). 👋
+<h1 align="center">Hi there! I'm Kerrinen Hope, aka <a href="https://ravendwyr.github.io">Ravendwyr</a>. 👋</h1>
+<h3 align="center">I am an avid gamer and hobbyist programmer who is probably best known for an assortment of World of Warcraft addons.</h3>
 
-I am an avid gamer and hobbyist programmer who is probably best known for an assortment of World of Warcraft addons.
+- 🔭 I’m currently working on **[Twitch Plays Pokemon](https://ravendwyr.github.io/tpp-progress/run-status.html)**
 
+- 🌱 I’m currently learning **Node.js, Gulp, Python, and TypeScript**
+
+- 👯 I’m looking to collaborate on **[PetEmote](https://github.com/Ravendwyr/PetEmote)**
+
+- 🤝 I’m looking for help with **[a WoWhead data mining script](https://github.com/Ravendwyr/TradeSkillInfo_DataMiner)**
+
+- 💻 All of my projects are available on **[CurseForge](https://www.curseforge.com/members/ravendwyr/projects)**
+
+- 💬 Ask me about **[World of Warcraft addons](https://ravendwyr.github.io/projects)**
+
+- 😄 Pronouns: **she/her**
+
+- ⚡ Fun fact: **My Redprints addon was featured on the front page of MMO-Champion, a popular World of Warcraft news and fan site**
+
+<h3 align="center">Languages & Tools</h3>
+
+<p align="center">
+<img src="https://simpleicons.org/icons/visualstudiocode.svg" title="Visual Studio Code" alt="code" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/git.svg" title="Git" alt="git" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/github.svg" title="GitHub" alt="github" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/travisci.svg" title="Travis CI" alt="travis" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/gnubash.svg" title="Bash" alt="bash" width="40" height="40"/>
 <br />
+<img src="https://simpleicons.org/icons/lua.svg" title="Lua" alt="lua" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/markdown.svg" title="Markdown" alt="markdown" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/python.svg" title="Python" alt="python" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/java.svg" title="Java" alt="java" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="javascript" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/typescript.svg" title="TypeScript" alt="typescript" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/node-dot-js.svg" title="Node.js" alt="nodejs" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/gulp.svg" title="Gulp" alt="gulp" width="40" height="40"/>
+</p>
 
-- 🔭 I’m currently working on [Twitch Plays Pokemon website updates](https://ravendwyr.github.io/tpp-progress/run-status.html)
-- 🌱 I’m currently learning Node.js, Gulp and TypeScript
-- 🤔 I’m looking for help with a Java-based datamining script for one of my World of Warcraft addons
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: My [Redprints](https://www.curseforge.com/wow/addons/redprints) addon was featured on the front page of MMO-Champion, a popular World of Warcraft news and fan site
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ravendwyr&show_icons=true&include_all_commits=true&count_private=true" alt="ravendwyr"/></p>
 
-<br />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravendwyr&layout=compact&card_width=445" alt="ravendwyr"/></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravendwyr&show_icons=true&include_all_commits=true&count_private=true)
+<h3 align="center">Connect With Me</h3>
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravendwyr&layout=compact&card_width=445)
+<p align="center">
+<a href="https://discord.com/invite/XC2REFu" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
+<a href="https://twitter.com/ravendwyr" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
+<a href="https://twitch.tv/ravendwyr" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
+</p>
 
-<br />
-
-### Languages & Tools
-
-<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<br />
-<br />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Node Package Manager" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
-<img align="left" alt="Gulp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" />
-
-<br />
-<br />
-
-### Connect With Me
-
-[<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />](https://twitter.com/ravendwyr)
+<p align="left"><img src="https://komarev.com/ghpvc/?username=ravendwyr" alt="ravendwyr"/></p>
