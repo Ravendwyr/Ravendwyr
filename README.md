@@ -43,7 +43,7 @@
 <h3 align="center">Connect With Me</h3>
 
 <p align="center">
-<a href="https://discord.com/invite/XC2REFu" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
+<a href="https://top.gg/servers/299308204393889802" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
 <a href="https://twitter.com/ravendwyr" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
 <a href="https://twitch.tv/ravendwyr" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
 </p>
