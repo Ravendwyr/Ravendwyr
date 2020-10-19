@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **[World of Warcraft addons](https://ravendwyr.github.io/projects)**
 
-- 😄 Pronouns: **she/her**
+- 😄 My pronouns are **she/her**
 
-- ⚡ Fun fact: **My Redprints addon was featured on the front page of MMO-Champion, a popular World of Warcraft news and fan site**
+- ⚡ Fun fact: **My [Redprints addon](https://github.com/Ravendwyr/Redprints) was featured on the [front page of MMO-Champion](https://www.mmo-champion.com/threads/1663075-Toy-Box-Enhanced-Redprints-WoWPedia-TCG-Loot-Giveaway-Blue-Tweets-DLC-470), a popular World of Warcraft news and fan site**
 
 <h3 align="center">Languages & Tools</h3>
 
