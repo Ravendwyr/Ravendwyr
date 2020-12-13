@@ -23,7 +23,7 @@
 <img src="https://simpleicons.org/icons/visualstudiocode.svg" title="Visual Studio Code" alt="code" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/git.svg" title="Git" alt="git" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/github.svg" title="GitHub" alt="github" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/travisci.svg" title="Travis CI" alt="travis" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/githubactions.svg" title="GitHub Actions" alt="github actions" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/gnubash.svg" title="Bash" alt="bash" width="40" height="40"/>
 <br />
 <img src="https://simpleicons.org/icons/lua.svg" title="Lua" alt="lua" width="40" height="40"/>
@@ -48,12 +48,13 @@
 <a href="https://twitch.tv/ravendwyr" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=ravendwyr)
+![](https://komarev.com/ghpvc/?username=ravendwyr&label=Profile+Views&style=flat-square)
 
-[![Twitter](https://img.shields.io/twitter/follow/ravendwyr.svg?label=Twitter&logo=twitter&maxAge=600&style=popout)](https://twitter.com/Ravendwyr)
-[![Discord](https://img.shields.io/discord/299308204393889802.svg?label=Discord&logo=discord&maxAge=600&style=popout)](https://top.gg/servers/299308204393889802)
+[![Twitter](https://img.shields.io/twitter/follow/ravendwyr?label=Twitter&logo=twitter&style=flat-square)](https://twitter.com/Ravendwyr)
+[![Discord](https://img.shields.io/discord/299308204393889802?label=Discord&logo=discord&style=flat-square)](https://top.gg/servers/299308204393889802)
+[![Sponsor](https://img.shields.io/github/sponsors/ravendwyr?label=Sponsors&logo=github+sponsors&style=flat-square)](https://github.com/sponsors/Ravendwyr)
 
-[![Twitch](https://img.shields.io/badge/Twitch-subscribe-yellow.svg?&logo=twitch)](https://www.twitch.tv/subs/ravendwyr)
-[![Crypto](https://img.shields.io/badge/ETH-send-yellow.svg?&logo=ethereum)](https://etherscan.io/address/0x332224Ed82264298B3DC68dAcf643E8Df4abDCC3)
-[![PayPal](https://img.shields.io/badge/PayPal-donate-yellow.svg?logo=paypal)](https://www.paypal.me/Ravendwyr/5gbp)
-[![Coffee](https://img.shields.io/badge/Kofi-buy-yellow.svg?logo=ko-fi)](https://ko-fi.com/Ravendwyr)
+[![Twitch](https://img.shields.io/badge/Twitch-subscribe-yellow?&logo=twitch&style=flat-square)](https://www.twitch.tv/subs/ravendwyr)
+[![Crypto](https://img.shields.io/badge/ETH-send-yellow?&logo=ethereum&style=flat-square)](https://etherscan.io/address/0x332224Ed82264298B3DC68dAcf643E8Df4abDCC3)
+[![PayPal](https://img.shields.io/badge/PayPal-donate-yellow?logo=paypal&style=flat-square)](https://www.paypal.me/Ravendwyr/5gbp)
+[![Coffee](https://img.shields.io/badge/Kofi-buy-yellow?logo=ko-fi&style=flat-square)](https://ko-fi.com/Ravendwyr)
