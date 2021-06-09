@@ -24,6 +24,7 @@
 <img src="https://simpleicons.org/icons/git.svg" title="Git" alt="git" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/github.svg" title="GitHub" alt="github" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/githubactions.svg" title="GitHub Actions" alt="github actions" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/dependabot.svg" title="Dependabot" alt="dependabot" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/gnubash.svg" title="Bash" alt="bash" width="40" height="40"/>
 <br />
 <img src="https://simpleicons.org/icons/lua.svg" title="Lua" alt="lua" width="40" height="40"/>
@@ -32,7 +33,8 @@
 <img src="https://simpleicons.org/icons/java.svg" title="Java" alt="java" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="javascript" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/typescript.svg" title="TypeScript" alt="typescript" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/node-dot-js.svg" title="Node.js" alt="nodejs" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/nodedotjs.svg" title="Node.js" alt="nodejs" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/npm.svg" title="NPM" alt="npm" alt="npm" with="40" height="40"/>
 <img src="https://simpleicons.org/icons/gulp.svg" title="Gulp" alt="gulp" width="40" height="40"/>
 </p>
 
