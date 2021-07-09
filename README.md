@@ -38,9 +38,17 @@
 <img src="https://simpleicons.org/icons/gulp.svg" title="Gulp" alt="gulp" width="40" height="40"/>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ravendwyr&show_icons=true&include_all_commits=true&count_private=true" alt="ravendwyr"/></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravendwyr&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Profile Stats"/>
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravendwyr&layout=compact&card_width=445" alt="ravendwyr"/></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravendwyr&layout=compact&card_width=445" alt="GitHub Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ravendwyr&column=4" alt="GitHub Profile Trophies">
+</p>
 
 <h3 align="center">Connect With Me</h3>
 
