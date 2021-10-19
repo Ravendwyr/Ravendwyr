@@ -1,8 +1,6 @@
 <h1 align="center">Hi there! I'm Kerrinen Hope, aka <a href="https://ravendwyr.github.io">Ravendwyr</a>. 👋</h1>
 <h3 align="center">I am an avid gamer and hobbyist programmer who is probably best known for an assortment of World of Warcraft addons.</h3>
 
-- 🔭 I’m currently working on **[Twitch Plays Pokemon](https://ravendwyr.github.io/tpp-progress/run-status.html)**
-
 - 🌱 I’m currently learning **Node.js, Gulp, Python, and TypeScript**
 
 - 👯 I’m looking to collaborate on **[PetEmote](https://github.com/Ravendwyr/PetEmote)**
