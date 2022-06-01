@@ -27,8 +27,7 @@
 <br />
 <img src="https://simpleicons.org/icons/lua.svg" title="Lua" alt="lua" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/markdown.svg" title="Markdown" alt="markdown" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/python.svg" title="Python" alt="python" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/java.svg" title="Java" alt="java" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/openjdk.svg" title="OpenJDK" alt="openjdk" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="javascript" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/typescript.svg" title="TypeScript" alt="typescript" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/nodedotjs.svg" title="Node.js" alt="nodejs" width="40" height="40"/>
@@ -37,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravendwyr&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Profile Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ravendwyr&show_icons=true&count_private=true" alt="GitHub Profile Stats"/>
 </p>
 
 <p align="center">
