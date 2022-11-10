@@ -52,12 +52,14 @@
 <p align="center">
 <a href="https://top.gg/servers/299308204393889802" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
 <a href="https://twitter.com/ravendwyr" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
+<a href="https://meow.social/@ravendwyr" target="blank" rel="me"><img align="center" src="https://simpleicons.org/icons/mastodon.svg" alt="mastodon" height="30" width="30"/></a>
 <a href="https://twitch.tv/ravendwyr" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=ravendwyr&label=Profile+Views&style=flat-square)
 
 [![Twitter](https://img.shields.io/twitter/follow/ravendwyr?label=Twitter&logo=twitter&style=flat-square)](https://twitter.com/Ravendwyr)
+[![Twooter](https://img.shields.io/mastodon/follow/109293526491740392?domain=https://meow.social&label=Mastodon&logo=mastodon&style=flat-square)](https://meow.social/@ravendwyr)
 [![Discord](https://img.shields.io/discord/299308204393889802?label=Discord&logo=discord&style=flat-square)](https://top.gg/servers/299308204393889802)
 [![Sponsor](https://img.shields.io/github/sponsors/ravendwyr?label=Sponsors&logo=github+sponsors&style=flat-square)](https://github.com/sponsors/Ravendwyr)
 
