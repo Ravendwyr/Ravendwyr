@@ -31,7 +31,7 @@
 <img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="javascript" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/typescript.svg" title="TypeScript" alt="typescript" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/nodedotjs.svg" title="Node.js" alt="nodejs" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/npm.svg" title="NPM" alt="npm" alt="npm" with="40" height="40"/>
+<img src="https://simpleicons.org/icons/npm.svg" title="NPM" alt="npm" alt="npm" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/gulp.svg" title="Gulp" alt="gulp" width="40" height="40"/>
 </p>
 
