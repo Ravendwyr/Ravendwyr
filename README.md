@@ -59,7 +59,7 @@
 ![](https://komarev.com/ghpvc/?username=ravendwyr&label=Profile+Views&style=flat-square)
 
 [![Twitter](https://img.shields.io/twitter/follow/ravendwyr?label=Twitter&logo=twitter&style=flat-square)](https://twitter.com/Ravendwyr)
-[![Twooter](https://img.shields.io/mastodon/follow/109293526491740392?domain=https://meow.social&label=Mastodon&logo=mastodon&style=flat-square)](https://meow.social/@ravendwyr)
+[![Twooter](https://img.shields.io/mastodon/follow/110671875370528026?domain=https://gamepad.club&label=Mastodon&logo=mastodon&style=flat-square)](https://gamepad.club/@ravendwyr)
 [![Discord](https://img.shields.io/discord/299308204393889802?label=Discord&logo=discord&style=flat-square)](https://top.gg/servers/299308204393889802)
 
 [![Twitch](https://img.shields.io/badge/Twitch-subscribe-yellow?&logo=twitch&style=flat-square)](https://www.twitch.tv/subs/ravendwyr)
