@@ -54,5 +54,4 @@
 [![Twitch](https://img.shields.io/twitch/status/ravendwyr?label=Twitch&logo=twitch&style=flat-square)](https://www.twitch.tv/ravendwyr)
 
 [![GitHub](https://img.shields.io/badge/GitHub-sponsor-yellow?logo=github+sponsors&style=flat-square)](https://github.com/sponsors/Ravendwyr)
-[![PayPal](https://img.shields.io/badge/PayPal-donate-yellow?logo=paypal&style=flat-square)](https://www.paypal.me/Ravendwyr/5gbp)
-[![Coffee](https://img.shields.io/badge/Kofi-buy-yellow?logo=ko-fi&style=flat-square)](https://ko-fi.com/Ravendwyr)
+[![Coffee](https://img.shields.io/badge/Kofi-support-yellow?logo=ko-fi&style=flat-square)](https://ko-fi.com/Ravendwyr)
