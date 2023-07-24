@@ -47,22 +47,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ravendwyr&column=4" alt="GitHub Profile Trophies">
 </p>
 
-<h3 align="center">Connect With Me</h3>
-
-<p align="center">
-<a href="https://top.gg/servers/299308204393889802" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
-<a href="https://twitter.com/ravendwyr" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
-<a href="https://gamepad.club/@ravendwyr" target="blank" rel="me"><img align="center" src="https://simpleicons.org/icons/mastodon.svg" alt="mastodon" height="30" width="30"/></a>
-<a href="https://twitch.tv/ravendwyr" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
-</p>
-
 ![](https://komarev.com/ghpvc/?username=ravendwyr&label=Profile+Views&style=flat-square)
 
-[![Twitter](https://img.shields.io/twitter/follow/ravendwyr?label=Twitter&logo=twitter&style=flat-square)](https://twitter.com/Ravendwyr)
-[![Twooter](https://img.shields.io/mastodon/follow/110671875370528026?domain=https://gamepad.club&label=Mastodon&logo=mastodon&style=flat-square)](https://gamepad.club/@ravendwyr)
+[![Mastodon](https://img.shields.io/mastodon/follow/110671875370528026?domain=https://gamepad.club&label=Mastodon&logo=mastodon&style=flat-square)](https://gamepad.club/@ravendwyr)
 [![Discord](https://img.shields.io/discord/299308204393889802?label=Discord&logo=discord&style=flat-square)](https://top.gg/servers/299308204393889802)
+[![Twitch](https://img.shields.io/twitch/status/ravendwyr?label=Twitch&logo=twitch&style=flat-square)](https://www.twitch.tv/ravendwyr)
 
-[![Twitch](https://img.shields.io/badge/Twitch-subscribe-yellow?&logo=twitch&style=flat-square)](https://www.twitch.tv/subs/ravendwyr)
 [![GitHub](https://img.shields.io/badge/GitHub-sponsor-yellow?logo=github+sponsors&style=flat-square)](https://github.com/sponsors/Ravendwyr)
 [![PayPal](https://img.shields.io/badge/PayPal-donate-yellow?logo=paypal&style=flat-square)](https://www.paypal.me/Ravendwyr/5gbp)
 [![Coffee](https://img.shields.io/badge/Kofi-buy-yellow?logo=ko-fi&style=flat-square)](https://ko-fi.com/Ravendwyr)
