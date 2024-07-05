@@ -15,24 +15,23 @@
 
 - ⚡ Fun fact: **My [Redprints addon](https://www.curseforge.com/wow/addons/redprints) was featured on the [front page of MMO-Champion](https://www.mmo-champion.com/threads/1663075-Toy-Box-Enhanced-Redprints-WoWPedia-TCG-Loot-Giveaway-Blue-Tweets-DLC-470), a popular World of Warcraft news and fan site**
 
-<h3 align="center">Languages & Tools</h3>
+<h3 align="center">Tools and Languages Used</h3>
 
 <p align="center">
-<img src="https://simpleicons.org/icons/visualstudiocode.svg" title="Visual Studio Code" alt="code" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/git.svg" title="Git" alt="git" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/github.svg" title="GitHub" alt="github" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/githubactions.svg" title="GitHub Actions" alt="github actions" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/dependabot.svg" title="Dependabot" alt="dependabot" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/gnubash.svg" title="Bash" alt="bash" width="40" height="40"/>
-<br />
-<img src="https://simpleicons.org/icons/lua.svg" title="Lua" alt="lua" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/markdown.svg" title="Markdown" alt="markdown" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/openjdk.svg" title="OpenJDK" alt="openjdk" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="javascript" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/typescript.svg" title="TypeScript" alt="typescript" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/nodedotjs.svg" title="Node.js" alt="nodejs" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/npm.svg" title="NPM" alt="npm" alt="npm" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/gulp.svg" title="Gulp" alt="gulp" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/gnubash.svg" title="Bash" alt="bash" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/eclipseadoptium.svg" title="Eclipse Temurin" alt="adoptium" width="40" height="40"/>
+<br />
+<img src="https://simpleicons.org/icons/lua.svg" title="Lua" alt="lua" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/markdown.svg" title="Markdown" alt="markdown" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="javascript" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/typescript.svg" title="TypeScript" alt="typescript" width="40" height="40"/>
 </p>
 
 <p align="center">
@@ -49,9 +48,10 @@
 
 ![](https://komarev.com/ghpvc/?username=ravendwyr&label=Profile+Views&style=flat-square)
 
-[![Mastodon](https://img.shields.io/mastodon/follow/110671875370528026?domain=https://gamepad.club&label=Mastodon&logo=mastodon&style=flat-square)](https://gamepad.club/@ravendwyr)
-[![Discord](https://img.shields.io/discord/299308204393889802?label=Discord&logo=discord&style=flat-square)](https://top.gg/servers/299308204393889802)
-[![Twitch](https://img.shields.io/twitch/status/ravendwyr?label=Twitch&logo=twitch&style=flat-square)](https://www.twitch.tv/ravendwyr)
+[![Telegram](https://img.shields.io/badge/Telegram-contact-lightgray?style=flat-square&logo=telegram)](https://t.me/ravendwyr)
+[![Twitch](https://img.shields.io/twitch/status/ravendwyr?style=flat-square&logo=twitch&label=Twitch)](https://www.twitch.tv/ravendwyr)
+[![Discord](https://img.shields.io/discord/299308204393889802?style=flat-square&logo=discord&label=Discord)](https://discord.gg/rKWQ4HsXtt)
+[![Mastodon](https://img.shields.io/mastodon/follow/110671875370528026?domain=https%3A%2F%2Fgamepad.club&style=flat-square&logo=mastodon&label=Mastodon)](https://gamepad.club/@ravendwyr)
 
-[![GitHub](https://img.shields.io/badge/GitHub-sponsor-yellow?logo=github+sponsors&style=flat-square)](https://github.com/sponsors/Ravendwyr)
-[![Coffee](https://img.shields.io/badge/Kofi-support-yellow?logo=ko-fi&style=flat-square)](https://ko-fi.com/Ravendwyr)
+[![GitHub](https://img.shields.io/badge/GitHub-sponsor-yellow?style=flat-square&logo=github%20sponsors)](https://github.com/sponsors/Ravendwyr)
+[![Coffee](https://img.shields.io/badge/KoFi-support-yellow?style=flat-square&logo=kofi)](https://ko-fi.com/Ravendwyr)
