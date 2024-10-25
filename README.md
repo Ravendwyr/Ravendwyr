@@ -46,8 +46,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ravendwyr&column=4" alt="GitHub Profile Trophies">
 </p>
 
-![](https://komarev.com/ghpvc/?username=ravendwyr&label=Profile+Views&style=flat-square)
-
 [![Linktree](https://img.shields.io/badge/Linktree-socials-yellow?style=flat-square&logo=linktree)](https://linktr.ee/ravendwyr)
-[![GitHub](https://img.shields.io/badge/GitHub-sponsor-yellow?style=flat-square&logo=github%20sponsors)](https://github.com/sponsors/Ravendwyr)
+
+[![Twitch](https://img.shields.io/badge/Twitch-subscribe-yellow?style=flat-square&logo=twitch)](https://www.twitch.tv/subs/ravendwyr)
 [![KoFi](https://img.shields.io/badge/KoFi-support-yellow?style=flat-square&logo=kofi)](https://ko-fi.com/Ravendwyr)
