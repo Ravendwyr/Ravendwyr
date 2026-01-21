@@ -34,6 +34,8 @@
 <img src="https://simpleicons.org/icons/typescript.svg" title="TypeScript" alt="typescript" width="40" height="40"/>
 </p>
 
+<h3 align="center">Stats and Awards</h3>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ravendwyr&show_icons=true&count_private=true" alt="GitHub Profile Stats"/>
 </p>
@@ -43,10 +45,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ravendwyr&column=4" alt="GitHub Profile Trophies">
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=ravendwyr&theme=light&column=4" alt="GitHub Profile Trophies">
 </p>
 
-[![Linktree](https://img.shields.io/badge/Linktree-socials-yellow?style=flat-square&logo=linktree)](https://linktr.ee/ravendwyr)
+<h3 align="center">Contact and Support</h3>
 
+[![Socials](https://img.shields.io/badge/Linktree-socials-yellow?style=flat-square&logo=linktree)](https://linktr.ee/ravendwyr)
+
+[![GitHub](https://img.shields.io/badge/GitHub-sponsor-yellow?style=flat-square&logo=github)](https://github.com/sponsors/Ravendwyr)
 [![Twitch](https://img.shields.io/badge/Twitch-subscribe-yellow?style=flat-square&logo=twitch)](https://www.twitch.tv/subs/ravendwyr)
-[![KoFi](https://img.shields.io/badge/KoFi-support-yellow?style=flat-square&logo=kofi)](https://ko-fi.com/Ravendwyr)
+[![Coffee](https://img.shields.io/badge/KoFi-support-yellow?style=flat-square&logo=kofi)](https://ko-fi.com/Ravendwyr)
